@@ -1,0 +1,6 @@
+transformers
+sentencepiece
+accelerate
+bitsandbytes
+einops
+streamlit
