@@ -2,12 +2,14 @@ import streamlit as st
 from transformers import AutoTokenizer, AutoModelForCausalLM
 import torch
 
+@st.cache
 # Load the Phi 2 model and tokenizer
 tokenizer = AutoTokenizer.from_pretrained(
     "microsoft/phi-2",
     trust_remote_code=True
 )
 
+@st.cache
 model = AutoModelForCausalLM.from_pretrained(
     "microsoft/phi-2",
     device_map="auto",
