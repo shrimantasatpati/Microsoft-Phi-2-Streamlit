@@ -5,6 +5,10 @@ Microsoft Phi 2 Streamlit App, deployed on [HuggingFace Spaces](https://huggingf
 - See - [Deployment](https://huggingface.co/spaces/shrimantasatpati/Microsoft_Phi2_Streamlit)
 - Colab - [Google Colab](https://colab.research.google.com/drive/1RgdgPYKEegmlkLVtaKa3ogUK0Iy9zdQ6?authuser=2#scrollTo=7ACJCRPWOG3j)
 
+Temperature - 0.9, max_new_tokens = 512
+- It is a bit irrelevant in the output as temperature (parameter for creativity of prompt output).
+- See - [Image](Image1.png)
+
 ## Acknowledgments
 
 - Microsoft Phi 2 language model - Microsoft Research team in advancing language model capabilities. 
