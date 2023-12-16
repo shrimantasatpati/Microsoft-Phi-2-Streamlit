@@ -7,7 +7,32 @@ Microsoft Phi 2 Streamlit App, deployed on [HuggingFace Spaces](https://huggingf
 
 ##### Temperature - 0.9, max_new_tokens = 512
 - It is a bit irrelevant in the output as temperature (parameter for creativity of prompt output).
-- See - [Image](Image1.png)
+![Image](Image1.png)
+
+  ## Getting Started
+
+1. **Clone the Repository:**
+   ```bash
+   git clone https://github.com/your-username/Microsoft-Phi-2-Streamlit.git
+   cd microsoft-phi2-streamlit-app
+   ```
+
+2. **Install Dependencies:**
+   ```bash
+   pip install -r requirements.txt
+   ```
+
+3. **Run the App:**
+   ```bash
+   streamlit run app.py
+   ```
+   This command will launch the app in your default web browser.
+
+## Usage
+
+1. Enter your text prompt in the provided text area.
+2. Click the "Generate" button to initiate text generation based on your prompt.
+3. Explore the generated output provided by the Microsoft Phi 2 language model.
 
 ## Acknowledgments
 
