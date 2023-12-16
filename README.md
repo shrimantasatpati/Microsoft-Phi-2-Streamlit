@@ -8,6 +8,9 @@ Microsoft Phi 2 Streamlit App, deployed on [HuggingFace Spaces](https://huggingf
 ##### Temperature - 0.9, max_new_tokens = 512
 - It is a bit irrelevant in the output as temperature (parameter for creativity of prompt output).
 ![Image](Image1.png)
+##### Temperature - 0.1, max_new_tokens = 512
+- Correct output but some unwanted tokens leakage in the prompt output.
+![Image](Image2.png)
 
   ## Getting Started
 
