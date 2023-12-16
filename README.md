@@ -4,8 +4,8 @@ Microsoft Phi 2 Streamlit App, deployed on [HuggingFace Spaces](https://huggingf
 
 ## Acknowledgments
 
-Microsoft Phi 2 language model - Microsoft Research team in advancing language model capabilities. 
-Streamlit development group.
+- Microsoft Phi 2 language model - Microsoft Research team in advancing language model capabilities. 
+- Streamlit development group.
 
 ## License
 
