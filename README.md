@@ -46,7 +46,7 @@ Microsoft Phi 2 Streamlit App, deployed on [HuggingFace Spaces](https://huggingf
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-###### Issues and Contributions
+### Issues and Contributions
 
 If you encounter any issues or have suggestions for improvements, please feel free to open an issue or submit a pull request. Your contributions are highly valued!
 
