@@ -17,7 +17,7 @@
 1. **Clone the Repository:**
    ```bash
    git clone https://github.com/your-username/Microsoft-Phi-2-Streamlit.git
-   cd microsoft-phi2-streamlit-app
+   cd Microsoft-Phi-2-Streamlit
    ```
 
 2. **Install Dependencies:**
